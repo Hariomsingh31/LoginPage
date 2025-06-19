@@ -1,5 +1,5 @@
 # LoginPage
-# 👋 Hi, I'm Hariomsingh31!
+# 👋 Hi, I'm Hariom Singh!
 
 Welcome to my GitHub profile!  
 I'm passionate about building impactful software and contributing to open source projects. Here, you'll find a showcase of my work, skills, and interests.  
